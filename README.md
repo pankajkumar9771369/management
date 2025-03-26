@@ -85,7 +85,7 @@ Endpoint	Method	Description
 ## port
 backend:
 http://localhost:5000
-fronted :
+frontend :
 http://localhost:3001
  
 
